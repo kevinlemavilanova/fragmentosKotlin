@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DosFragments</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Mensaje</string>
+    <string name="button">Procesar</string>
+    <string name="title_activity_visor">Visor</string>
+    <string name="fr2txt">Fragment A</string>
+    <string name="fr1txt">Fragment B</string>
+    <string name="boton">Start</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
